@@ -9,6 +9,5 @@ Specifications:
 - 64gb (4x32) 3200mhz Corsair Vengeance
 - AMD RX 6900XT
 - 1 TB NVMe, WD-BLACK
-\
-\
+<br />
 Recommended device: iMac Pro 2017
