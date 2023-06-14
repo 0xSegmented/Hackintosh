@@ -1,5 +1,5 @@
 # Hackintosh
-Updates version of Hackintosh \
+Updated version of Hackintosh (can run sonama or ventura)\
 \
 OpenCore Version: 0.9.3 \
 \
